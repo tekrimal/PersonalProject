@@ -11,11 +11,11 @@
 			<h4>If so,</h4>
 			<h4>You are at the right place.</h4>
 			<h4>You are just a few clicks away from knowing yourself.</h4>
-			<h4>If you would like to know who you are!,</h4>
-			<h4>What are your real strengths</h4>
+			<h4>If you would like to know who you are,</h4>
+			<h4>what are your real strengths</h4>
 			<h2>AND</h2>
 			<h4>How you could be successful.</h4>
-			<h3>Answering Just three questions you can find your real strength</h3>
+			<h3>Answering just three questions,<br> you can find your real strength</h3>
 			<h2>AND</h2>
 			<h3>YOUR KEY TOWARDS MOTIVATION</h3>
 			<h4>To answer those three questions</h4>
@@ -26,7 +26,7 @@
  	<a href="firstPage" class="btn btn-primary btn-lg btn-block active " role="button" aria-pressed="true">Click Here</a>
  	<div id= "center">
  		<h3>If you are nervous or you do not have confidence</h3>
- 		<h2>Then</h2>
+ 		<h2>then</h2>
  		<h1>PLEASE CLICK</h1>
  	</div>
 	<a href="lastPage" class="btn btn-danger btn-lg btn-block active" role="button" aria-pressed="true">Ignore</a>

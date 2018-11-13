@@ -37,11 +37,12 @@ public class HelloController extends HttpServlet {
 		
 		return "myInfo";
 	}
-	@RequestMapping("/testPage")
-	public String displayTestPage() {
+	@RequestMapping("/secondPage")
+	public String displaysecondPage() {
 		
-		return "testPage";
+		return "secondPage";
 	}
+
 	
 	
 }

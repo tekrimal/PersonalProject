@@ -15,7 +15,7 @@
 				<img alt="half filled glass" src= "img/glass.png"/>
 				<h4>Is this glass half filled or half empty?</h4>
 			</div>
-			<form method =  "POST" action= "lastPage">
+			<form method =  "POST" action= "secondPage">
 				<ul>
 					<li class="radio"><input name="halfFilled" value="halfFilled"  type="radio"><label for= "halfFilled">Half Filled</label></li>
    					 <li class="radio"><input name="halfFilled" value="halfEmpty"  type="radio"><label for= "halfEmpty">Half Empty</label></li>
